@@ -77,7 +77,7 @@ def register(ip,tags):
 
 hostname = '192.168.55.10'
 username = 'admin'
-password = 'paloalto'
+password = 'admin'
 ip = ''
 selection = ''
 # Connect to the device and determine its type (Firewall or Panorama).
