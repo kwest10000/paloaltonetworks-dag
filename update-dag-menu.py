@@ -75,7 +75,7 @@ def register(ip,tags):
     slack.chat.post_message('#paloaltonetworks', message, username='@Lab-Firewall')
     
 
-hostname = '192.168.55.10'
+hostname = '192.168.4.10'
 username = 'admin'
 password = 'admin'
 ip = ''
